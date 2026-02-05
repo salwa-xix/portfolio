@@ -1,4 +1,3 @@
-// src/components/Contact.jsx
 import Card from "./Card";
 
 export default function Contact({ email, links }) {
