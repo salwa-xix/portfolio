@@ -1,4 +1,3 @@
-// src/components/Card.jsx
 export default function Card({ title, sub, meta }) {
   return (
     <div className="card">
