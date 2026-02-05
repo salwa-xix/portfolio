@@ -1,4 +1,3 @@
-// src/components/Hero.jsx
 export default function Hero({ data }) {
   return (
     <div className="hero" id="home">
