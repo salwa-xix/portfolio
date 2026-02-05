@@ -1,4 +1,3 @@
-// src/components/Education.jsx
 import Card from "./Card";
 
 export default function Education({ education }) {
