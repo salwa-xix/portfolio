@@ -1,4 +1,3 @@
-// src/components/Section.jsx
 export default function Section({ id, title, children }) {
   return (
     <section className="section" id={id}>
