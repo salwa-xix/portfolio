@@ -1,4 +1,3 @@
-// src/components/Skills.jsx
 export default function Skills({ skills }) {
   return (
     <div className="skillsGrid">
