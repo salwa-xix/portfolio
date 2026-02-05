@@ -1,4 +1,3 @@
-// src/components/Projects.jsx
 import Card from "./Card";
 
 export default function Projects({ projects }) {
